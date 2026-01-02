@@ -22,7 +22,7 @@
     "@lingui/core": "^5.4.1",
     "@tauri-apps/api": "^2.8.0",
     "@tauri-apps/plugin-http": "^2.5.2",
-    "ai": "^5.0.21",
+    "ai": "^5.0.52",
     "date-fns": "^4.1.0",
     "mutative": "^1.2.0",
     "p-debounce": "^4.0.0",
