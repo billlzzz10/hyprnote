@@ -16,7 +16,7 @@
     "@langchain/langgraph-checkpoint-postgres": "^1.0.0",
     "@langchain/openai": "^1.2.7",
     "@t3-oss/env-core": "^0.13.10",
-    "langsmith": "^0.4.12",
+    "langsmith": "^0.5.18",
     "loops": "^6.2.0",
     "modal": "^0.6.2",
     "pg": "^8.18.0",
