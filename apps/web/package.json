@@ -11,7 +11,7 @@
     "gen:agents": "node scripts/gen-agents.js"
   },
   "dependencies": {
-    "@chenglou/pretext": "^0.0.4",
+    "@chenglou/pretext": "^0.0.5",
     "@deepgram/sdk": "^4.11.3",
     "@honeycombio/opentelemetry-web": "^1.3.0",
     "@hypr/api-client": "workspace:*",
@@ -59,7 +59,7 @@
     "chart.js": "^4.5.1",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.20",
-    "drizzle-orm": "^0.44.7",
+    "drizzle-orm": "^0.45.2",
     "exa-js": "^1.10.2",
     "github-slugger": "^2.0.0",
     "html-to-image": "^1.11.13",
