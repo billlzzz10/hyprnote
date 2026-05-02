@@ -127,7 +127,7 @@
     "cmdk": "1.1.1",
     "codemirror-readonly-ranges": "0.1.0-alpha.2",
     "date-fns": "^4.1.0",
-    "dompurify": "^3.3.3",
+    "dompurify": "^3.4.0",
     "effect": "^3.21.0",
     "facehash": "^0.0.7",
     "js-levenshtein-esm": "^2.0.0",
