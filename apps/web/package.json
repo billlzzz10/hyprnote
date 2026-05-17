@@ -58,7 +58,7 @@
     "chart.js": "^4.5.1",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.20",
-    "drizzle-orm": "^0.44.7",
+    "drizzle-orm": "^0.45.2",
     "exa-js": "^1.10.2",
     "github-slugger": "^2.0.0",
     "html-to-image": "^1.11.13",
